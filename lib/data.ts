@@ -63,7 +63,7 @@ export const portfolioData: PortfolioData = {
     degree: "Integrated M.Sc. Data Science (Mathematics & Computer Science)",
     institution: "Amrita Vishwa Vidyapeetham",
     period: "Sep 2022 – Present",
-    gpa: "9.11 / 10",
+    gpa: "9.19 / 10",
   },
   experience: {
     title: "LLM Research Intern (Solo Contributor)",
